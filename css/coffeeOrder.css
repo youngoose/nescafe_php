@@ -1,0 +1,38 @@
+html, body {
+  background-color: #800000;
+}
+
+#title {
+  text-align: center;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+
+.jumbotron {
+  background: url("../images/logo.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 800px;
+  height: 200px;
+  margin: 0 auto;
+  margin-top: 25px;
+  margin-bottom: 10px;
+  padding: 0;
+}
+
+#orderForm {
+  background: #603813;  
+  background: -webkit-linear-gradient(to right, #b29f94, #603813);  
+  background: linear-gradient(to right, #b29f94, #603813); 
+  border-radius: 10px;
+  margin-left: 10px;
+  margin: 0 auto;
+  padding: 20px 20px;
+  width: 500px;
+}
+
+.star {
+  font-weight: bold;
+  color: brown;
+}
